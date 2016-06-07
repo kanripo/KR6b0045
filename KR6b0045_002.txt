@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:40.288247
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:57
 #+TITLE: 過去現在因果經
 #+PROPERTY: CBETA_ID T03n0189
 #+PROPERTY: ID KR6b0045
